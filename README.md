@@ -6,7 +6,7 @@ Because of climate change, the ice bergs are starting to melt, obviously, the te
 
 
 How to acquire the data:
-
+Link to the Instrument/Data: https://ooinet.oceanobservatories.org/data_access/?search=GI01SUMO-RII11-02-CTDMOR020
 This data is collected from the Ocean Observatories Initiative website. To locate the data:
 1. Go to the Ocean Observatories Initiative website
 2. Hover over the "The Observatory" tab and hover over the "Research Array" tab and click Global Irminger Sea.
